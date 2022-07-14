@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Crypto Currency Tracker</string>
+    <string name="you_can_login_to_access_crypto_application_here">You Can Login To Access \nCrypto Application Here</string>
+    <string name="if_you_have_already_registered_click_here_to_login">if you have already registered <u>click here to login</u></string>
+    <string name="you_can_register_for_access_to_the_crypto_application_here">You can register for access to the Crypto application here.</string>
+    <string name="if_you_haven_t_registered_yet_click_here_to_register">if you haven\'t registered yet <u>Click here to register</u></string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

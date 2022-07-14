@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083568708287",
+    "firebase_url": "https://cryptocurrencytracker-4eea3-default-rtdb.firebaseio.com",
+    "project_id": "cryptocurrencytracker-4eea3",
+    "storage_bucket": "cryptocurrencytracker-4eea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083568708287:android:63a28b0ea26ee66ba1840a",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrencytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083568708287-oefr3u2qc70nrvqjvr7r0ll0i3o1khbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptocurrencytracker",
+            "certificate_hash": "baf2f736230253d2f409d63ccb655f2f4b4fec44"
+          }
+        },
+        {
+          "client_id": "1083568708287-ucqgeuk4lr94vf37hb6cncpicochjoks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2wF8fTim0m1QMEHoUJsJZVCzTOmA4x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083568708287-ucqgeuk4lr94vf37hb6cncpicochjoks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
