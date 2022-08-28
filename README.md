@@ -1,5 +1,14 @@
 # CryptoCurrencyTracker
 
+Crypto - is a short term for “Cryptography” and Currency refers to “The money currently in use”. 
+Cryptocurrency is an electronic money, a computer technology which is used for hiding 
+information or identities of an individual. In recent years, Cryptocurrencies have attracted a 
+variety of interest from investors, entrepreneurs, regulators and the overall public. There are 
+public discussions of cryptocurrencies worldwide because of frequent changes in their prices 
+from time to time. Lot of people are investing in different cryptocurrencies these days and the 
+return of investment definitely makes it worth it. Cryptocurrencies and behavioral financial and 
+economics.
+
 ![1](https://user-images.githubusercontent.com/96056284/178950647-0807c609-a64c-4eef-9951-d8cd169dbe5e.jpg)
 ![6](https://user-images.githubusercontent.com/96056284/178951169-753921ad-5c19-4b06-8e16-6339578931f2.jpg)
 ![2](https://user-images.githubusercontent.com/96056284/178951190-f64e7a43-cc14-46fd-ab9f-6fd617088e60.jpg)
